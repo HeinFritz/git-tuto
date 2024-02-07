@@ -1,2 +1,2 @@
 console.log('config.ja');
-console.log('version12');
+console.log('version13');
